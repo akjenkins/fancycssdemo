@@ -1,5 +1,9 @@
 # CS52 Workshops: Fancy CSS Flitz
 
+## Discussion Questions and my answers:
+Why use CSS to add effects to your site instead of JavaScript? When might it be better to use JavaScript? JavaScript takes more time and effort to process. JavaScript might be better when the CSS just gets way too complicated, and CSS can't go to certain points within animations as easily.
+What do the percentages within keyframes animations mean? How do you set how long the animation should take to run? The percentages mean at what point in the animation it happens, i.e. 90% for a 10 second animation means that will happen 9 seconds in. We can set the animation duration with animation-duration.
+
 ![](https://media.giphy.com/media/ubQOPZPbPPJ7y/giphy.gif)
 
 Implementing cool effects with fancy CSS is awesome because it allows you to modernize your design using basic tools that you already know how to use. This can help you convey information more intuitively and efficiently, implement creative user interactions, and add joy to your site! Plus, CSS is faster than costly JavaScript, so animations will run smoothly and won't slow down your site. The tutorial below will lead you through just a few of the cool things you can make happen with pure CSS.
